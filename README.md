@@ -1,1 +1,2 @@
-Developed a Book Store Management web application with a front-end interface using Spring Boot and MySQL. Implemented and exposed RESTful APIs for performing CRUD operations
+Book Store Management System (Spring Boot, MySQL)
+Developed a full-stack bookstore management system using Spring Boot for the backend and MySQL as the database. Implemented a user-friendly front-end interface to perform CRUD operations on book records, including adding, updating, and deleting books. The system supports seamless interaction between the front-end and back-end, ensuring efficient management of the bookstore inventory.
